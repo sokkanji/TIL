@@ -1,6 +1,6 @@
 # 블러이미지 생성하기
 
-Next.js의 로드되는 중에 placeholder로 보여줄 블러 이미지를 생성하는 코드입니다.
+Next.js의 로드되는 중에 placeholder로 보여줄 블러이미지를 생성하는 코드입니다.
 
 ### 1. sharp 설치
 ```yarn add sharp```
@@ -39,4 +39,4 @@ const sharp = require("sharp");
 
 [Next.js placeholder](https://nextjs.org/docs/app/api-reference/components/image#placeholder)
 
-[Next.js Image dataUrl](https://applink.pay.naver.com/npay/?link=https://applink.pay.naver.com?urlScheme%3Dnaverpayapp://inappbrowser?url%253Dhttps%25253A%25252F%25252Fcampaign2.naver.com%25252Fnpay%25252Fpayapp_quiz%25252Fpoint&apn=com.naverfin.payapp&isi=1554807824&ibi=com.naverfin.payapp&cid=980289309071959048&_osl=https://applink.pay.naver.com/npay/payapp_quizpoint&_icp=1)
+[Next.js Image dataUrl](https://nextjs.org/docs/app/api-reference/components/image#blurdataurl)
