@@ -2,6 +2,8 @@
 
 Next.js의 로드되는 중에 placeholder로 보여줄 블러이미지를 생성하는 코드입니다.
 
+블러이미지 외에도 [generate a solid color Data URL ](https://png-pixel.com/) 를 통해 색상이미지를 생성할 수 있습니다. 
+
 ### 1. sharp 설치
 ```yarn add sharp```
 
