@@ -1,7 +1,7 @@
 # 커밋 이메일 변경하기
 
 ## 1. git filter-repo  설치
-https://github.com/newren/git-filter-repo
+[git filter repo](https://github.com/newren/git-filter-repo)
 
 ## 2. git filter-repo 명령어 실행
 ```
