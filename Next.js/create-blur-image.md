@@ -1,14 +1,14 @@
-# 블러이미지 생성하기
+# 블러 이미지 생성하기
 
-Next.js의 로드되는 중에 placeholder로 보여줄 블러이미지를 생성하는 코드입니다.
+Next.js에서는 이미지 태그에 블러 이미지로 쓸 이미지를 지정할 수 있다. 아래는 이미지가 로드되는 동안 띄울 이미지인 블러 이미지를 생성하는 코드이다 .
 
-블러이미지 외에도 [generate a solid color Data URL ](https://png-pixel.com/) 를 통해 색상이미지를 생성할 수 있습니다.
+블러 이미지 말고도 [generate a solid color Data URL ](https://png-pixel.com/) 를 통해 색상 이미지를 또한 생성할 수 있다.
 
 ### 1. sharp 설치
 
 `yarn add sharp`
 
-### 2. bulr.js 코드 생성
+### 2. blur.js 코드 생성
 
 ```
 const fs = require("fs");
@@ -40,7 +40,9 @@ const sharp = require("sharp");
 />
 ```
 
-**참고**
+## 사용 사
+
+## 참고 문서
 
 [Next.js placeholder](https://nextjs.org/docs/app/api-reference/components/image#placeholder)
 
