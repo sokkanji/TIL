@@ -18,9 +18,9 @@
 
 Skeleton을 적용할 거면 이미지를 감싸고 있는 엘리먼트까지 같이 처리하는 게 깔끔하다.
 
-[skeleton 일반 네트워크 속도 버전 동영상 보기](./video/skeleton2.mp4)
+[skeleton 일반 네트워크 속도 버전 동영상 보기](../video/skeleton2.mov)
 
-[skeleton 느린 네트워크 속도 버전 동영상 보기](./video/skeleton1.mp4)
+[skeleton 느린 네트워크 속도 버전 동영상 보기](../video/skeleton1.mov)
 
 ## 참고 문서
 

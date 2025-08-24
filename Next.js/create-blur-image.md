@@ -40,7 +40,9 @@ const sharp = require("sharp");
 />
 ```
 
-## 사용 사
+## 테스트 동영상
+
+[동영상 보러가기](../video/nextjs-blur-image.mov)
 
 ## 참고 문서
 
